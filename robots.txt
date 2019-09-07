@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eewiixooti.victor.villas/sitemap.xml
